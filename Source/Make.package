@@ -1,0 +1,3 @@
+CEXE_headers += AmrQGD.H
+CEXE_sources +=  AmrQGD.cpp QGDLevelBld.cpp QGD_advance.cpp main.cpp
+
